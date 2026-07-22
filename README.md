@@ -1,4 +1,4 @@
-# Opus Magnum Community Wiki
+# [Opus Magnum Community Wiki](https://opus-magnum-community.github.io/wiki/)
 A wiki for all things Opus Magnum
 
 
